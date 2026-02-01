@@ -210,3 +210,7 @@ export const theme: ThemeConfig = merge(lightTheme, {
   ...
 } as Partial<ThemeConfig>);
 ```
+
+## Customization
+
+This template is fully customizable for your Nouns-related project. Fork it and make it your own!
